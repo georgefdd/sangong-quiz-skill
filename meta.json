@@ -1,0 +1,9 @@
+{
+  "name": "sangong_quiz",
+  "version": "1.0.0",
+  "description": "上海三公（上外附中、上实、浦外）小升初真题推送技能。为Anthony（三年级学生）提供每周真题练习，推进三公备考规划。",
+  "author": "2048",
+  "license": "MIT",
+  "keywords": ["三公", "小升初", "真题", "上海", "备考"],
+  "repository": "https://github.com/coze/sangong_quiz"
+}
